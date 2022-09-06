@@ -1,0 +1,61 @@
+
+@font-face {
+    font-family: pixel;
+    src: url("../../Fonts/Pixel/Pixel.ttf");
+}
+@font-face {
+    font-family: vazir;
+    src: url("../../Fonts/Vazir/Vazir.ttf");
+}
+@font-face {
+    font-family: vazir-bold;
+    src: url("../../Fonts/Vazir/Vazir-Bold.ttf");
+}
+@font-face {
+    font-family: radin;
+    src: url("../../Fonts/Radin/Radin.otf");
+}
+@font-face {
+    font-family: banxors;
+    src:
+    url("../../Fonts/Banxors/Banxors.ttf") , 
+    url("../../Fonts/Banxors/Banxors.otf");
+}
+@font-face {
+    font-family: apple;
+    src: url("../../Fonts/Apple/apple.ttf");
+}
+@font-face {
+    font-family: apple-bold;
+    src: url("../../Fonts/Apple/apple-bold.otf");
+}
+
+@font-face {
+    font-family: "mikhak-medium";
+    src: url("../../Fonts/Mikhak/Mikhak-Medium.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "mikhak-bold";
+    src: url("../../Fonts/Mikhak/Mikhak-Bold.ttf") format("truetype");
+}
+  
+@font-face {
+    font-family: "mikhak-black";
+    src: url("../../Fonts/Mikhak/Mikhak-Black.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "mikhak-light";
+    src: url("../../Fonts/Mikhak/Mikhak-Light.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "mikhak-thin";
+    src: url("../../Fonts/Mikhak/Mikhak-Thin.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "mikhak-VF";
+    src: url("../../Fonts/Mikhak/Mikhak-VF.ttf") format("truetype");
+}
